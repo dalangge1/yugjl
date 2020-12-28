@@ -1,8 +1,8 @@
 # flutter_demo 
 
-这是一个Fluuter demo 
+这是一个Flutter demo 
 
-demo非常简单，适合新手。
+非常简单，适合新手。
 
 
 ## 第三方 
